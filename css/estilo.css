@@ -1,0 +1,73 @@
+
+body{
+    background-color: #731414;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.titulog{
+    
+    font-family: monospace;
+}
+
+
+
+
+.titulo1{
+    padding-left: 60px;
+    margin: 30px 0px 0px;
+    color: #F2DDD5;
+    font-size: 30px;
+}
+.titulo2{
+    padding-left: 60px;
+    margin: 0px 0px 0px;
+    color: #F2DDD5;
+}
+img{
+    margin: 0px 0px 0px;
+    padding-left: 90px;
+}
+
+
+
+
+.right{
+    border-radius: 15px;
+    background-color: #F2DDD5;
+    height: 300px;
+    width: 250px;
+    color: #731414;
+    margin-right: 180px;
+
+}
+.titulo3{
+    padding-left: 88px;
+    margin: 20px 0px 0px;
+}
+.email{
+    margin-bottom: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 38px;
+}
+.senha{
+    margin-bottom: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 4px;
+    padding-left: 38px;
+}
+.botao{
+    padding-left: 100px;
+}
+.corr{
+    background-color: #731414;
+    font-family: monospace;
+    color: #F2DDD5;
+}
